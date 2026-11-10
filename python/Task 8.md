@@ -137,4 +137,6 @@ Student Averages: [81.66666666666667, 85.0, 76.66666666666667]
 Subject Averages: [78.33333333333333, 83.33333333333333, 81.66666666666667]
 Top Student: Student 2
 Highest Total: 255.0
-# screenshot
+# screenshot output
+<img width="721" height="661" alt="WhatsApp Image 2026-11-10 at 9 40 11 AM" src="https://github.com/user-attachments/assets/11cdbd9f-98a8-46ca-9117-bc2d75b50d2c" />
+
