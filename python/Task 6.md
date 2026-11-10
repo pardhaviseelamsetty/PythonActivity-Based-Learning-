@@ -82,4 +82,6 @@ else:
     Enter your password: Hello@123
   # Sample Output
     Password is Valid
-   # screenshot
+   # screenshot output
+   <img width="487" height="141" alt="WhatsApp Image 2026-11-10 at 9 40 09 AM (1)" src="https://github.com/user-attachments/assets/83d15f77-aadd-419b-b744-7f3969d5eb23" />
+
