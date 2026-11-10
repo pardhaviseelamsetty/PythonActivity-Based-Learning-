@@ -89,4 +89,6 @@ Examination 2: 70.0
 Examination 3: 85.0
 Average Marks: 71.67
 Performance Trend: Improving
-# screenshot
+# screenshot output
+<img width="514" height="366" alt="WhatsApp Image 2026-11-10 at 9 40 09 AM" src="https://github.com/user-attachments/assets/37ff0f24-1fda-4a7c-8d01-753e99000720" />
+
