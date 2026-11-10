@@ -98,4 +98,6 @@ Food Wasted: 12.0 kg
 Waste Percentage: 12.0 %
 Waste Classification: Moderate Waste
 Enter food wasted (kg): 12
-# screenshot
+# screenshot output
+<img width="460" height="247" alt="WhatsApp Image 2026-11-10 at 9 40 12 AM" src="https://github.com/user-attachments/assets/ad7fb674-431f-4eed-9784-02aaabc1d96b" />
+
