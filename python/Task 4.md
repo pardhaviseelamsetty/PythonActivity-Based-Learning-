@@ -108,3 +108,6 @@ Enter quantity: 1
 Subtotal: Rs. 8000.0
 Total Discount: Rs. 800.0
 Final Bill Amount: Rs. 7200.0
+# Screenshot output
+<img width="511" height="529" alt="WhatsApp Image 2026-11-10 at 9 40 08 AM" src="https://github.com/user-attachments/assets/41db6f63-f54b-4f17-b914-0078365f2c7c" />
+
